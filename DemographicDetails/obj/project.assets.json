@@ -375,11 +375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Knowledge\\POC\\Inprogress\\DemographicDetails\\DemographicDetails\\DemographicDetails\\DemographicDetails.Api.csproj",
+      "projectUniqueName": "D:\\Knowledge\\POC\\LUSA\\DemographicDetails\\DemographicDetails\\DemographicDetails.Api.csproj",
       "projectName": "DemographicDetails.Api",
-      "projectPath": "D:\\Knowledge\\POC\\Inprogress\\DemographicDetails\\DemographicDetails\\DemographicDetails\\DemographicDetails.Api.csproj",
+      "projectPath": "D:\\Knowledge\\POC\\LUSA\\DemographicDetails\\DemographicDetails\\DemographicDetails.Api.csproj",
       "packagesPath": "C:\\Users\\manic\\.nuget\\packages\\",
-      "outputPath": "D:\\Knowledge\\POC\\Inprogress\\DemographicDetails\\DemographicDetails\\DemographicDetails\\obj\\",
+      "outputPath": "D:\\Knowledge\\POC\\LUSA\\DemographicDetails\\DemographicDetails\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manic\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -397,11 +397,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Knowledge\\POC\\Inprogress\\DemographicDetails\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj": {
-              "projectPath": "D:\\Knowledge\\POC\\Inprogress\\DemographicDetails\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj"
+            "D:\\Knowledge\\POC\\LUSA\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj": {
+              "projectPath": "D:\\Knowledge\\POC\\LUSA\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj"
             },
-            "D:\\Knowledge\\POC\\Inprogress\\DemographicDetails\\DemographicDetails\\DemographicDetails.Services\\DemographicDetails.Services.csproj": {
-              "projectPath": "D:\\Knowledge\\POC\\Inprogress\\DemographicDetails\\DemographicDetails\\DemographicDetails.Services\\DemographicDetails.Services.csproj"
+            "D:\\Knowledge\\POC\\LUSA\\DemographicDetails\\DemographicDetails.Services\\DemographicDetails.Services.csproj": {
+              "projectPath": "D:\\Knowledge\\POC\\LUSA\\DemographicDetails\\DemographicDetails.Services\\DemographicDetails.Services.csproj"
             }
           }
         }

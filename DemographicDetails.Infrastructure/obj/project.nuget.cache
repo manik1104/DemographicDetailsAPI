@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fjIToBSRpX38OlgDMlNQmed6vedEmBHdj0B3nu31TidEkR2oA7mqepe1uoBioj95xsDaa/svYsMEJZidlU6bcQ==",
+  "dgSpecHash": "sjQStHnV7NWa1NbaRw7Vev1Q1LwocDp/nIdxeUvB/FzXdS7QQR9vDF8IpoOQX2IJOX28cn7XmQm+MF/U7i9owA==",
   "success": true,
-  "projectFilePath": "D:\\Knowledge\\POC\\Inprogress\\DemographicDetails\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj",
+  "projectFilePath": "D:\\Knowledge\\POC\\LUSA\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

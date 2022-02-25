@@ -29,7 +29,7 @@ namespace DemographicDetails.Services
                     double theta = objFromLocationDetails.Longitude - objToLocationDetails.Longitude;
                     double rtheta = Math.PI * theta / 180;
                     double dist =
-                        Math.Sin(rlat1) * Math.Sin(rlat2) + Math.Cos(rlat1) *
+                        Math.Sin(rlat1) * Math.Sin(rlat2) + Math.Cos(rlat1) * 
                         Math.Cos(rlat2) * Math.Cos(rtheta);
                     dist = Math.Acos(dist);
                     dist = dist * 180 / Math.PI;
