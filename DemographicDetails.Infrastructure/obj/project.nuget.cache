@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sjQStHnV7NWa1NbaRw7Vev1Q1LwocDp/nIdxeUvB/FzXdS7QQR9vDF8IpoOQX2IJOX28cn7XmQm+MF/U7i9owA==",
+  "dgSpecHash": "dfNZH98zpYxyqRb0wefcs6V+EMit36Rp+7Xjx8HGNtEBUzXtn91VWELmkEUa2F4FhBCe52uDjV4E0FztyC4eNQ==",
   "success": true,
-  "projectFilePath": "D:\\Knowledge\\POC\\LUSA\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj",
+  "projectFilePath": "E:\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\manic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\peerbrains10\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

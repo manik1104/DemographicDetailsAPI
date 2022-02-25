@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\manic\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\manic\\.nuget\\packages"
+      "C:\\Users\\peerbrains10\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\peerbrains10\\.nuget\\packages"
     ]
   }
 }

@@ -20,3 +20,15 @@ D:\Knowledge\POC\Inprogress\DemographicDetails\DemographicDetails\DemographicDet
 D:\Knowledge\POC\Inprogress\DemographicDetails\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.dll
 D:\Knowledge\POC\Inprogress\DemographicDetails\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\ref\DemographicDetails.Infrastructure.dll
 D:\Knowledge\POC\Inprogress\DemographicDetails\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.pdb
+E:\DemographicDetails\DemographicDetails.Infrastructure\bin\Debug\net5.0\DemographicDetails.Infrastructure.deps.json
+E:\DemographicDetails\DemographicDetails.Infrastructure\bin\Debug\net5.0\DemographicDetails.Infrastructure.dll
+E:\DemographicDetails\DemographicDetails.Infrastructure\bin\Debug\net5.0\ref\DemographicDetails.Infrastructure.dll
+E:\DemographicDetails\DemographicDetails.Infrastructure\bin\Debug\net5.0\DemographicDetails.Infrastructure.pdb
+E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.csproj.AssemblyReference.cache
+E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.AssemblyInfoInputs.cache
+E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.AssemblyInfo.cs
+E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.csproj.CoreCompileInputs.cache
+E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.dll
+E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\ref\DemographicDetails.Infrastructure.dll
+E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.pdb
