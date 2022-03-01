@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj": {}
+    "D:\\Knowledge\\POC\\LendingUSA\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj": {
+    "D:\\Knowledge\\POC\\LendingUSA\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Knowledge\\POC\\LendingUSA\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj",
         "projectName": "DemographicDetails.Infrastructure",
-        "projectPath": "E:\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\peerbrains10\\.nuget\\packages\\",
-        "outputPath": "E:\\DemographicDetails\\DemographicDetails.Infrastructure\\obj\\",
+        "projectPath": "D:\\Knowledge\\POC\\LendingUSA\\DemographicDetails\\DemographicDetails.Infrastructure\\DemographicDetails.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\manic\\.nuget\\packages\\",
+        "outputPath": "D:\\Knowledge\\POC\\LendingUSA\\DemographicDetails\\DemographicDetails.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\peerbrains10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manic\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://tfs-all:8080/tfs/NABP/_packaging/NabpApprovedPackages/nuget/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "w/xGZfnxnYOZmp/g95esThGh0OAKi2bEwFeqJLxtkKzdrnxRHCL+uhkRwSxayrs2wrnsZt7bvtHClRy4dir13A==",
+  "dgSpecHash": "81LzYBe0k1v6sQutngD0weZFm17RHbGhzn1UFAA7Nb7G/32QcaPxpDIYcvEnC5tj9LnQko+7YRpzkTeXCwiHBg==",
   "success": true,
-  "projectFilePath": "E:\\DemographicDetails\\DemographicDetails.Services\\DemographicDetails.Services.csproj",
+  "projectFilePath": "D:\\Knowledge\\POC\\LendingUSA\\DemographicDetails\\DemographicDetails.Services\\DemographicDetails.Services.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\peerbrains10\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\manic\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\manic\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,3 +1,5 @@
+using DemographicDetails.Infrastructure.Implementation;
+using DemographicDetails.Infrastructure.Interfaces;
 using DemographicDetails.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -29,6 +31,8 @@ namespace DemographicDetails
         {
             services.AddControllers();
             services.AddScoped<IDistanceCalcualtionService, DistanceCalcualtionService>();
+            services.AddScoped<IGeoLocationRepository, GeoLocationRepository>();
+            
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo

@@ -1,26 +1,41 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DemographicDetails.Infrastructure.Models
 {
-    public class GeoLocation
+    public class GeoLocationCity
     {       
         public string ZipCode { get; set; }
 
         public string City { get; set; }        
     }
 
-    public class GeoLocationInputs
+    public class GeoLocationInput
     {
+
         public string FromZipCode { get; set; }
         public string ToZipCode { get; set; }
+
+        public virtual IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
+        {
+            if(string.IsNullOrEmpty(FromZipCode))
+            {
+                yield return new ValidationResult("Required From ZipCode");
+            }
+
+            if (string.IsNullOrEmpty(ToZipCode))
+            {
+                yield return new ValidationResult("Required To ZipCode");
+            }
+        }
        
     }
 
-    public class GeoLocationDetails
+    public class GeoLocationDistance
     {
         public double Distance { get; set; }
 

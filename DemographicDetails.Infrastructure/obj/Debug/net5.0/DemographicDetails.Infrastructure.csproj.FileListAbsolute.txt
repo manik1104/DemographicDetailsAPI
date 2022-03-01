@@ -32,3 +32,15 @@ E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\Demogra
 E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.dll
 E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\ref\DemographicDetails.Infrastructure.dll
 E:\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.pdb
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\bin\Debug\net5.0\DemographicDetails.Infrastructure.deps.json
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\bin\Debug\net5.0\DemographicDetails.Infrastructure.dll
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\bin\Debug\net5.0\ref\DemographicDetails.Infrastructure.dll
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\bin\Debug\net5.0\DemographicDetails.Infrastructure.pdb
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.csproj.AssemblyReference.cache
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.AssemblyInfoInputs.cache
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.AssemblyInfo.cs
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.dll
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\ref\DemographicDetails.Infrastructure.dll
+D:\Knowledge\POC\LendingUSA\DemographicDetails\DemographicDetails.Infrastructure\obj\Debug\net5.0\DemographicDetails.Infrastructure.pdb

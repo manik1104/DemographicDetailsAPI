@@ -9,6 +9,9 @@ namespace DemographicDetails.Infrastructure.Interfaces
 {
     public interface IGeoLocationRepository
     {
-        public List<GeoLocation> GetGeoLocations();
+        public List<GeoLocationCity> GetGeoLocations();
+
+        public List<Coordinates> GetCoordinates();
+
     }
 }

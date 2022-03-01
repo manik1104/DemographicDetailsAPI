@@ -19,7 +19,7 @@ namespace DemographicDetails.Infrastructure.Implementation
 
         }
 
-        public List<GeoLocation> GetGeoLocations()
+        public List<GeoLocationCity> GetGeoLocations()
         {
             return GetGeoLocationDetails();
         }
@@ -28,18 +28,20 @@ namespace DemographicDetails.Infrastructure.Implementation
         {
             return GetCoordinateDetails();
         }
+
+
         #region private methods
-        private List<GeoLocation> GetGeoLocationDetails()
+        private List<GeoLocationCity> GetGeoLocationDetails()
         {
             
-            var geolocationList = new List<GeoLocation>();
+            var geolocationList = new List<GeoLocationCity>();
 
             string filePath = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"Cities.json");
 
             using (StreamReader r = new StreamReader(filePath))
             {
                 string json = r.ReadToEnd();
-                geolocationList = JsonConvert.DeserializeObject<List<GeoLocation>>(json);
+                geolocationList = JsonConvert.DeserializeObject<List<GeoLocationCity>>(json);
             }
             return geolocationList;
         }

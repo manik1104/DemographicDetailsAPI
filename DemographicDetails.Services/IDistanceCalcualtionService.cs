@@ -9,6 +9,6 @@ namespace DemographicDetails.Services
 {
     public interface IDistanceCalcualtionService
     {
-        GeoLocationDetails DistanceCalculation(GeoLocationInputs objGeoLocationInputs);        
+        GeoLocationDistance DistanceCalculation(GeoLocationInput objGeoLocationInputs);        
     }
 }
